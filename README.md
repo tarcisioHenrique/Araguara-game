@@ -5,5 +5,6 @@ ADENDOS:
 - Qualquer erro ou sugestão me informe!
 - Evite cair das plataformas no void, pois isso ainda irei consertar (fazer com que o player volte para a plataforma)
 - Esse primeiro teste é para o contato com o jogo e o funcionamento dos puzzles.
+- Aliás, caso caia da plataforma, feche o jogo e abra novamente (mas irá voltar tudo do começo)
 
 OBRIGADO!
